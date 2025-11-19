@@ -32,5 +32,23 @@ source venv/bin/activate
 
 pip install -r requirements.txt
 
+```
+
+Run training:
+
+```bash
+
+python train.py
+
+```
+
+Launch MLflow UI:
+
+```bash
+
+mlflow ui
+
+```
+
 
 
